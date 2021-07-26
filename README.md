@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidarebuwa&show_icons=true&theme=dark)
 
-### Hi there, I go by David 👋
+### Hi there 👋
 
 - 🔭 I’m currently working on: Beam, a visual gym assistant for fitness enthusiast
 - 🌱 I’m currently learning: Swift, React & Javascript
